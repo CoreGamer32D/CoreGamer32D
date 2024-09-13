@@ -1,4 +1,4 @@
-<h1 align="center">CoreGamer32 Readme Bio</h1>
+<h1 align="center">CoreGamer32</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coregamer32pro&label=Profile%20views&color=0e75b6&style=flat" alt="coregamer32d" /> </p>
 
 - 🔭 I’m currently working on **ArcaneV2**
