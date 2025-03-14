@@ -8,7 +8,7 @@
 - 🔥 Passionate about **HTML, CSS, JavaScript, Node.js, and MongoDB**.
 - 🛠️ Developing **real-time applications, game scripts, and backend services**.
 - 🎯 Building projects like **weather radar systems, game server hosting, and API integrations**.
-- 🚀 Currently working on **advanced backend systems and frontend designs**.
+- 🚀 Currently working on **JTS Minecraft Server**[Link](linkto:https://github.com/CoreGamer32D/JTSMinecraftServer).
 
 ---
 
