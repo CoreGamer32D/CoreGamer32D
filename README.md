@@ -1,19 +1,19 @@
-### 👋 Hey there, I'm **CoreGamer32**!
+###  Hey there, I'm **CoreGamer32**!
 
-💻 **Full Stack Developer** | 🚀 **Game & Web Enthusiast** | 🎮 **Roblox & NR2003 Scripting**
-
----
-
-### 🚀 About Me
-- 🎨 **Passionate about web development & game scripting**.
-- ⚡ **Building cutting-edge applications, game engines, and frameworks**.
-- 🎯 **Working on real-time weather radars, game hosting, and simulation engines**.
-- 🛠 **Always exploring new technologies and optimizing performance**.
-- 🛠 **Working on JTS Radar**.
+**Full Stack Developer** |  **Game & Web Enthusiast** |  **Roblox & NR2003 Scripting**
 
 ---
 
-### 📊 GitHub Stats & Activity
+###  About Me
+-  **Passionate about web development & game scripting**.
+-  **Building cutting-edge applications, game engines, and frameworks**.
+-  **Working on real-time weather radars, game hosting, and simulation engines**.
+-  **Always exploring new technologies and optimizing performance**.
+-  **Working on JTS Radar**.
+
+---
+
+###  GitHub Stats & Activity
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CoreGamer32D&color=blue" alt="Profile Views" />
@@ -31,25 +31,25 @@
 
 ---
 
-### 🔧 Tech Stack
+###  Tech Stack
 
-**💻 Languages & Frameworks:**
-- 🚀 HTML, CSS, JavaScript, Lua
-- ⚡ Express.js, MongoDB, React.js
-- 🎮 Roblox Studio, NR2003, rFactor Modding
+**Languages & Frameworks:**
+-  HTML, CSS, JavaScript, Lua
+-  Express.js, MongoDB, React.js
+-  Roblox Studio, NR2003, rFactor Modding
 
 **🛠 Tools & Platforms:**
-- 🔧 Git, Docker, VPS Hosting
-- 🎨 TailwindCSS, Bootstrap, Figma
-- 🖥 VS Code, Postman, API Development
+-  Git, Docker, VPS Hosting
+-  TailwindCSS, Bootstrap, Figma
+-  VS Code, Postman, API Development
 
 ---
 
-### 🌍 Connect With Me
+###  Connect With Me
 
-- 📧 Email: [wilhitem84@gmail.com](mailto:wilhitem84@gmail.com)
-- 🌐 Website: [Coming Soon!]
+-  Email: [wilhitem84@gmail.com](mailto:wilhitem84@gmail.com)
+-  Website: [Coming Soon!]
 
 ---
 
-⭐ **Check out my projects & drop a star if you find them useful!** 🚀
+ **Check out my projects & drop a star if you find them useful!** 
