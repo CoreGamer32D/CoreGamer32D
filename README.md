@@ -14,5 +14,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CoreGamer32D&show_icons=true&locale=en&theme=dark" alt="CoreGamer32D" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoreGamer32D&layout=donut&theme=dark" />
 </div>
-[!Discord status](https://dsc-readme.tsuni.dev/api/user/1160239688179794000?theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512)](https://github.com/the-snesler/discord-github-preview)
+[![Discord status](https://dsc-readme.tsuni.dev/api/user/1160239688179794000?theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512)](https://github.com/TetraTsunami/discord-github-preview)
+
 
