@@ -40,23 +40,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoreGamer32D&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B8FFF&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoreGamer32D&theme=tokyonight&hide_border=true&background=0d1117&ring=7B8FFF&fire=FF6B6B&currStreakLabel=7B8FFF" />
-
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=CoreGamer32D&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
