@@ -60,7 +60,7 @@
 
 <div align="center">
 
-[![Discord status](https://dsc-readme.tsuni.dev/api/user/1160239688179794000?theme=nitroDark&primaryColor=7B8FFF&accentColor=fe80c0&width=512)](https://github.com/TetraTsunami/discord-github-preview)
+[![Discord status](https://dsc-readme.tsuni.dev/api/user/1160239688179794000?theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=520)](https://github.com/the-snesler/discord-github-preview)
 
 </div>
 
