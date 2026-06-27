@@ -16,22 +16,6 @@
 
 ---
 
-## About Me
-
-```python
-class CoreGamer32:
-    role        = "Backend Developer"
-    languages   = ["Python", "TypeScript", "JavaScript"]
-    focus       = ["REST APIs", "System Design", "Automation", "Performance"]
-    currently   = "Building things that scale"
-    contact     = "Find me on Discord"
-
-    def greet(self):
-        return "Hey — welcome to my GitHub. I build backends that don't break."
-```
-
----
-
 ## Tech Stack
 
 <div align="center">
@@ -42,11 +26,11 @@ class CoreGamer32:
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,docker,git,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,bun,git,linux,vscode&theme=dark" />
 
 **Databases & Infra**
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
 
 </div>
 
