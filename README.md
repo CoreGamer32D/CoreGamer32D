@@ -26,7 +26,7 @@
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=nodejs,bun,git,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,bun,git,vscode&theme=dark" />
 
 **Databases & Infra**
 
