@@ -40,7 +40,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoreGamer32D&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B8FFF&icon_color=7B8FFF&text_color=c9d1d9&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoreGamer32D&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B8FFF&text_color=c9d1d9" />
 
 </div>
